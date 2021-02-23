@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226439502527",
+    "firebase_url": "https://hogoo-6ead3.firebaseio.com",
+    "project_id": "hogoo-6ead3",
+    "storage_bucket": "hogoo-6ead3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226439502527:android:c9ac8235d123e53a92440a",
+        "android_client_info": {
+          "package_name": "com.rmor.hogoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226439502527-0brpdgm5j33lnl99hn7ngbu6it6r09f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmor.hogoo",
+            "certificate_hash": "777edf044eb55a33198c11c0159af8df71d318a7"
+          }
+        },
+        {
+          "client_id": "226439502527-96087v7ktib1gn0593bj71uv7h7s8md4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB072txpmXINPCZOmq07__zD9RcwUfleqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226439502527-96087v7ktib1gn0593bj71uv7h7s8md4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
